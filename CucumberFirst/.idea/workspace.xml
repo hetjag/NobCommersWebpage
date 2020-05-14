@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8122003a-7bc6-42e4-840b-48df41c3789c" name="Default Changelist" comment="" />
+    <list default="true" id="8122003a-7bc6-42e4-840b-48df41c3789c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Auto" beforeDir="false" afterPath="$PROJECT_DIR$/../Auto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demonopcommece-1" beforeDir="false" afterPath="$PROJECT_DIR$/../Demonopcommece-1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nopcommerce-automation-using-POM" beforeDir="false" afterPath="$PROJECT_DIR$/../Nopcommerce-automation-using-POM" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NopcommercePageObject" beforeDir="false" afterPath="$PROJECT_DIR$/../NopcommercePageObject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nopcommercecategoryhomework" beforeDir="false" afterPath="$PROJECT_DIR$/../Nopcommercecategoryhomework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NopeCommerceDemo" beforeDir="false" afterPath="$PROJECT_DIR$/../NopeCommerceDemo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrangeHrm" beforeDir="false" afterPath="$PROJECT_DIR$/../OrangeHrm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculater3" beforeDir="false" afterPath="$PROJECT_DIR$/../calculater3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +35,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1YSEVoe89TH5lDUkHICNFrtKEF5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
